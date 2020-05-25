@@ -368,10 +368,10 @@ h1.big-title
 #portfolio
 {
     background-color: #221C5A; 
-    background-image: url("demo-images/background_img_02.jpg"); 
+    background-image: url(demo-images/background_img_03.jpg); 
     background-repeat: no-repeat; 
     background-position: center top; 
-    background-size: auto;
+    background-size: cover;
     z-index: 8;
 }
 
@@ -568,7 +568,7 @@ div.pp_default .pp_loaderIcon
     background-image: url("demo-images/background_img_03.jpg"); 
     background-repeat: no-repeat; 
     background-position: center top; 
-    background-size: cover; 
+    background-size: auto; 
     z-index: 7;
 }
 
