@@ -4,7 +4,8 @@ body
     font-size: 16px;
     line-height: 26px;
     font-weight: 400;
-    color: #23214c;    
+    color: #23214c; 
+    background-color: #23214c;   
 }
 
 body a
@@ -591,7 +592,7 @@ div.pp_default .pp_loaderIcon
 .member-content-holder 
 {
     width: 330px;
-    padding: 90px 50px 50px 50px;
+    padding: 60px 50px 30px 50px;
     float: left;
 }
 
@@ -1098,9 +1099,11 @@ footer
 
 .social-footer a 
 {
-    margin: 0 10px;
-    font-size: 20px;
+    margin: 0 10px;   
+    height: 10px;
+    
 }
+
 
 /* END FOOTER */
 
