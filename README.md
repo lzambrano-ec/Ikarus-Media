@@ -3,8 +3,6 @@
 1. [General Info](#general-info)
 2. [Libraries](#libraries)
 3. [Description](#description)
-4. [Collaboration](#collaboration)
-5. [FAQs](#faqs)
 
 ### General Info
 ***
