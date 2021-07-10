@@ -6,7 +6,7 @@
 
 ### General Info
 ***
-This is the code for the website ikarus-media.com This is a website with a  one page design. Therefore this website has all his content in only one page divided in sections. For have a stylish and fun site we have added some libraries in javscript in order to produce some efects like
+This is the code for the ikarus-media.com website with a one page layout. Therefore this website has all its content on the front page divided into sections. To have a stylish and fun site we have added some javascript libraries in order to produce some visual effects and interactivity with the user. 
 ### Logo Ikarus Media
 ![Image text](https://www.ikarus-media.com/images/logo-loader128.gif)
 ## Libraries
@@ -22,3 +22,4 @@ A list of libraries used within the project:
 
 ## Description
 ***
+I have added the Jquery library in order to be able to use some plugins of this library. Sticky-Kit is implemented to have a menu tha doesn't dissapear when the user do sroll down. Smart Menu together with dryMenu is used to have a stylish dropdown menu in the version mobil. I wrote this code for change color in menu depending of the section 
